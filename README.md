@@ -1,5 +1,4 @@
-### I forked Alex Flint's project, because Abe the Abstracting Editor might end up depending on it, 
-and I don't want to suddenly discover that it's not there. 
+### I forked Alex Flint's project, because Abe the Abstracting Editor might end up depending on it, and I don't want to suddenly discover that it's not there. 
 
 # FileMutex
 
