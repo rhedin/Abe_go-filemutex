@@ -1,3 +1,6 @@
+### I forked Alex Flint's project, because Abe the Abstracting Editor might end up depending on it, 
+and I don't want to suddenly discover that it's not there. 
+
 # FileMutex
 
 FileMutex is similar to `sync.RWMutex`, but also synchronizes across processes.
