@@ -1,5 +1,7 @@
 ### I forked Alex Flint's project, because Abe the Abstracting Editor might end up depending on it, and I don't want to suddenly discover that it's not there. 
 
+I disabled the continuous integration workflow.  It can be re-enabled by clicking Actions on the github page.  It was running ci whenever I checked anything in. 
+
 # FileMutex
 
 FileMutex is similar to `sync.RWMutex`, but also synchronizes across processes.
